@@ -1,6 +1,4 @@
-## Hi there 👋😄
-
-I'm Leandro!!
+## Hi there, I'm Leandro!! 👋😄
 
 ### I'm currently:
  - Working at Scotiabank.
