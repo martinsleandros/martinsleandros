@@ -70,8 +70,6 @@ Languages and Tools
 -->
 
 #### 🔭 I’m using GitHub to post my codes used in some courses that I've made
-Courses:
- - <a href="https://aws.amazon.com" target="_blank"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsleandros&hide=javascript,html)](https://github.com/martinsleandros/martinsleandros)
 <!--
