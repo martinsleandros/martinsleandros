@@ -69,7 +69,7 @@ Languages and Tools
 </p>
 -->
 
-#### 🔭 I’m using GitHub to post my codes used in some courses that I've made
+#### 🔭 I’m using GitHub to post my codes used in some courses that I've made, some examples that you can use to study, avail it!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsleandros&hide=javascript,html)](https://github.com/martinsleandros/martinsleandros)
 <!--
